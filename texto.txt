@@ -1,1 +1,4 @@
 Exercitando comandos do git
+
+alterando
+
